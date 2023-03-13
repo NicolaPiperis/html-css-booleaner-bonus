@@ -1,0 +1,93 @@
+/* header style */
+#backgroung{
+    background-color: rgb(7, 145, 187);
+    width: 100%;
+    height: 230px;
+}
+
+#image{
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    height: 100%;
+}
+
+#logo{
+   width: 240px;
+   margin-top: 150px;
+   margin-left: 20px;
+
+}
+
+/* main style */
+
+/* title and pictures */
+#blue-text{
+    color: blue;
+    font-size: larger;
+}
+
+.info-article{
+    color: grey;
+    font-size: larger;
+}
+
+/* paragraph and table */
+.general-text{
+    font-size: 24px;
+}
+
+#highlighted-paragraph{
+    background-color: yellowgreen;
+}
+
+.list{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(7, 42, 241);
+    color: white;
+}
+
+th{
+    width: 30%;
+    text-align: left;
+    
+}
+
+#description{
+    width: 40%;
+}
+
+.azzure{
+    background-color: aqua;
+}
+
+/* footer style */
+#footer-sentence{
+    font-size: 20px;
+    color: grey;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+/* bonus */
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+footer{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
